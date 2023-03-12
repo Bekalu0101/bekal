@@ -1,7 +1,4 @@
-/* GROUP MEMBERS
-1,YOMIF KUMISA...........UGR/9541/12
-2, SISAY MAMO............UGR/4219/12
-3,TEMESGEN ABDISSA......UGR/8666/13
+
 #include<iostream>
 #include<fstream>
 #include<string.h>
