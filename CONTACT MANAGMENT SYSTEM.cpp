@@ -1,8 +1,4 @@
-/*
-LEMLEM BIRHAN UGR/4402/13
-EDEN YOHANNS UGR/9343/13
-HELEN HAILE UGR/6221/13
-*/
+
 #include <iostream>
 #include <conio.h>
 #include <fstream>
