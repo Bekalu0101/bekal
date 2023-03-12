@@ -1,16 +1,4 @@
 //CREDIT CARD VALIDATION
-/*1.Hana Wendmagegn. 
-UGR/7061/13 
-2.Gifti kebede. 
-UGR/2353/13 
-3.Iyerusalem Kasu. 
-UGR/1742/13 
-4.Metsinagna Bahiru. 
-UGR/6989/13 
-5.Mekin Mohamed. 
-UGR/9662/13
-6.Adam wendmagegn
-UGR/4554/13*/
 #include <iostream>
 #include<fstream>
 #include<string.h>
